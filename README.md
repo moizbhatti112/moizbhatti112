@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz Bhatti</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
-- 📫 How to reach me **moizbhatti112@gmail.com**
+- 📫 How to reach me **moizbhatti1003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
